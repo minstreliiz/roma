@@ -23,6 +23,7 @@
 	<modules>
 		<module>eureka-service</module>
 		<module>zuul-service</module>
+		<module>beer-catalog-service</module>
 	</modules>
 
 </project>
